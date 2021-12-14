@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MC Technology"
+title                    : "snowscan.io"
 title_separator          : "-"
-name                     : "Marcos Chow Castro"
-description              : "Pagina para post de tutoriales en YouTube y tecnología"
-url                      : "https://mctechnology17.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Snowscan"
+description              : "Posts about security, CTFs and networking"
+url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
@@ -33,7 +33,8 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook               : "https://www.facebook.com/mctechnology17"
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -100,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marcos Chow Castro"
+  name             : "Snowscan"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, CTF player<br>HackTheBox ATeam"
   location         : "Canada"
-  email            : "info@mctechnology17.io"
+  email            : "info@snowscan.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -116,7 +117,7 @@ author:
   github           : "slemire"
   gitlab           :
   google_plus      :
-  keybase          : "mctechnology17"
+  keybase          : "snowscan"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -125,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "mctechnology17"
+  twitter          : "snowscan"
   vine             :
   weibo            :
   xing             :
