@@ -117,7 +117,7 @@ author:
   github           : "mctechnology17"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : # "snowscan"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -130,7 +130,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/c/mctechnology17"
 
 
 # Reading Files
