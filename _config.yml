@@ -20,7 +20,7 @@ title                    : "MC Technology"
 title_separator          : "-"
 name                     : "Marcos Chow Castro"
 description              : "Pagina para post de tutoriales en YouTube y tecnología"
-url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mctechnology17.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "Marcos Chow Castro"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, CTF player<br>HackTheBox ATeam"
   location         : "Canada"
-  email            : "info@snowscan.io"
+  email            : "info@mctechnology17.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -116,7 +116,7 @@ author:
   github           : "slemire"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : "mctechnology17"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          : "mctechnology17"
   vine             :
   weibo            :
   xing             :
