@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mctechnology17.github.io"
+title                    : "H4ckNet | Ciberseguridad y Hacking Ético"
 title_separator          : "-"
-name                     : "Marcos Chow Castro"
-description              : "Posts about security, CTFs and networking"
-url                      : "https://mctechnology17.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "S4vitar"
+description              : "Artículos sobre ciberseguridad, CTFs e investigaciones"
+url                      : "https://s4vitar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mctechnology17/mctechnology17.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/Logo_blue.PNG"
+repository               : "s4vitar/s4vitar.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+#logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -101,11 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marcos Chow Castro"
-  avatar           : "/assets/images/IMG_0012.JPG"
-  bio              : "Technology diffuser<br>Bioinformatic under construction"
-  location         : "Germany"
-  email            : "mctechnology17170318@gmail.com"
+  name             : "S4vitar"
+  avatar           : "/assets/images/avatar.png"
+  bio              : "CyberSecurity Analyst at ElevenPaths / OSCP / OSWP / eWPTxv2 / eJPT / eCPPTv2 / CPHE / CHEE"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,23 +112,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mctechnology17"
+  github           : "s4vitar"
   gitlab           :
   google_plus      :
-  keybase          : # "snowscan"
+  keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "s4vitar" # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "mctechnology17"
+  twitter          : "s4vitar"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/c/mctechnology17"
+  youtube          : "https://youtube.com/c/s4vitar"
 
 
 # Reading Files
