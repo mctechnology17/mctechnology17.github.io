@@ -19,14 +19,13 @@ date: 2021-12-15
 [<img align="center" alt="MC Technology17 | Facebook" width="22px" src="../assets/images/src/facebook.png" />][facebook]
 [<img align="center" alt="@mctechnology17 | Reddit" width="22px" src="../assets/images/src/reddit.png" />][reddit]
 
-</td> </tr></h3>
+</td></tr></h3>
 
 ### Actualmente estudiando un Master en Bioinformática 💻 en alemania
 - 🦾 Me encanta el el levantamiento de pesas!
 - 🤓 Actualmente estoy aprendiendo de todo un poco XD!
 - 👾 Tengo mucha curiosidad y por eso empiezas a estudiar programación
 - 🗒  Actualmente estoy muy obsecionado con el aprendizaje de vimscript
-</details>
 
 <br />
 
