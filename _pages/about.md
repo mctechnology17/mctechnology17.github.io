@@ -13,11 +13,10 @@ date: 2021-12-15
 
 <h3 align="center"><tr><td>
 
-[<img align="center" alt="MC Technology | YouTube" width="22px" src="../assets/images/src/youtube.png" />][youtube]
+[<img align="center" alt="MC Technology | YouTube" width="22px" src="../assets/images/src/youtube.png" />](https://www.youtube.com/c/mctechnology17)
 [<img align="center" alt="@mctechnology17 | Twitter" width="22px" src="../assets/images/src/twitter.png" />][twitter]
 [<img align="center" alt="@mctechnology17 | Instagram" width="22px" src="../assets/images/src/instagram.png" />][instagram]
 [<img align="center" alt="MC Technology17 | Facebook" width="22px" src="../assets/images/src/facebook.png" />][facebook]
-[<img align="center" alt="@mctechnology17 | Reddit" width="22px" src="../assets/images/src/reddit.png" />][reddit]
 
 </td></tr></h3>
 
