@@ -1,0 +1,19 @@
+# Codigos de descuento que salen en la portada (seccion "Codigos de descuento").
+# Una entrada por marca. Campos:
+#   marca:   nombre visible (obligatorio)
+#   codigo:  codigo a copiar (obligatorio)
+#   detalle: texto corto, p. ej. "10 % en toda la tienda" (opcional)
+#   url:     enlace a la tienda o enlace de afiliado (opcional)
+#   hasta:   fecha de fin AAAA-MM-DD; despues de esa fecha no se muestra (opcional)
+#
+# Ejemplo:
+# - marca: "Tienda de teclados"
+#   codigo: "MCTECHNOLOGY17"
+#   detalle: "10 % en switches y keycaps"
+#   url: "https://ejemplo.com/?ref=mctechnology17"
+#   hasta: 2026-12-31
+
+- marca: "XCMKB"
+  codigo: "MCTECH5"
+  detalle: "Teclados y accesorios"
+  url: "https://xcmkb.com"
