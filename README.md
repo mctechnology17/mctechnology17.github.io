@@ -1,7 +1,7 @@
 # MC Technology · mctechnology17.github.io
 
 Página de enlaces de MC Technology: redes, donaciones, códigos de descuento y contacto.
-Se publica con GitHub Pages desde la rama `master`.
+Se publica con GitHub Pages desde la rama `master` en https://mctechnology17.com (archivo `CNAME`).
 
 ## Estructura
 
