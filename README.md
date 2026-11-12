@@ -11,6 +11,7 @@ Se publica con GitHub Pages desde la rama `master` en https://mctechnology17.com
 | `_data/descuentos.yml` | Códigos de descuento: añade una entrada y aparece sola |
 | `assets/brand/` | Logo, isotipo, favicon, fondo, avatar, imagen para redes (OG) |
 | `assets/fonts/` | Poppins (local, sin Google Fonts) |
+| `privacidad.html`, `condiciones.html` | Política de privacidad y condiciones (`/privacidad/`, `/condiciones/`); las piden Google, Meta y TikTok para las apps de publicación |
 | `404.html` | Página de error |
 
 ## Probar en local
